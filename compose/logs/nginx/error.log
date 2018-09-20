@@ -1,0 +1,2 @@
+2018/09/20 08:05:21 [emerg] 1#1: unknown directive "erver" in /etc/nginx/conf.d/default.conf:1
+2018/09/20 08:15:24 [emerg] 1#1: unknown directive "erver" in /etc/nginx/conf.d/default.conf:1
